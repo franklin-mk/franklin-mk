@@ -128,13 +128,23 @@ Easy content management systems with flexible controls.
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-[![Franklin's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklin-mk&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/franklin-mk)
-[![Franklin's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=franklin-mk&theme=tokyonight&hide_border=true)](https://github.com/franklin-mk)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-mk&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/franklin-mk)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=franklin-mk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Franklin's GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=franklin-mk&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Franklin's GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-mk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 
 </div>
+
+> **Note:** these three cards are generated live by the free, shared `github-readme-stats` / `streak-stats` services. If they show as broken images, it's almost always that public instance being rate-limited or briefly down — not your markdown. Wait a few minutes and hard-refresh, or deploy your own instance ([guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own)) and swap the domain in the URLs above for a permanently reliable version.
+
+---
+
+## 🎯 Hobbies
+
+`🧑‍💻 Coding` &nbsp; `🥞 Making Pancakes` &nbsp; `📸 Photography` &nbsp; `🎱 Playing Pool`
 
 ---
 
