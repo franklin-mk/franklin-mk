@@ -129,13 +129,10 @@ Easy content management systems with flexible controls.
 
 <div align="center">
   
-<!-- Update these paths to match where your GitHub Action saves the SVGs -->
-<img src="./assets/github-stats.svg" alt="Franklin's GitHub stats" height="165"/>
-<img src="./assets/github-streak.svg" alt="Franklin's GitHub streak" height="165"/>
+[![Franklin's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklin-mk&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/franklin-mk)
+[![Franklin's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=franklin-mk&theme=tokyonight&hide_border=true)](https://github.com/franklin-mk)
 
-<br><br>
-
-<img src="./assets/github-top-langs.svg" alt="Top Languages"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-mk&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/franklin-mk)
 
 </div>
 
