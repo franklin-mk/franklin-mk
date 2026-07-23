@@ -128,10 +128,12 @@ Easy content management systems with flexible controls.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franklin-mk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Franklin's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franklin-mk&theme=tokyonight&hide_border=true" alt="Franklin's GitHub streak" height="165"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-mk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  
+[![Franklin's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklin-mk&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/franklin-mk)
+[![Franklin's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=franklin-mk&theme=tokyonight&hide_border=true)](https://github.com/franklin-mk)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-mk&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/franklin-mk)
+
 </div>
 
 ---
