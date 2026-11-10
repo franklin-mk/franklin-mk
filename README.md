@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-iamfranklin.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://iamfranklin.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-franklinmuriithi431%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franklinmuriithi431@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Nyeri,_Kenya-238636?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Location-Nyeri,_Kenya-238636?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Nyeri,+Kenya)
 
 </div>
 
@@ -66,8 +66,8 @@ I'm a Junior Full Stack Web Developer with a passion for turning simple concepts
 
 <table>
 <tr>
-<td width="50%">
-  
+<td width="50%" valign="top">
+
 **🌐 Web Applications**
 Tailored web apps built with the latest technologies.
 
@@ -80,8 +80,8 @@ Seamless integration for smooth data sharing and functionality.
 **🎨 User Interfaces**
 Engaging, responsive front-end designs for better user experiences.
 </td>
-<td width="50%">
-  
+<td width="50%" valign="top">
+
 **🗄️ Database Solutions**
 Efficient and scalable database management for your data needs.
 
@@ -128,11 +128,21 @@ Easy content management systems with flexible controls.
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-[![Franklin's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklin-mk&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/franklin-mk)
-[![Franklin's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=franklin-mk&theme=tokyonight&hide_border=true)](https://github.com/franklin-mk)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-mk&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/franklin-mk)
+<!-- Cards below are generated daily by .github/workflows/profile-summary-cards.yml
+     and stored in this repo, so they never depend on a third-party server. -->
+
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Franklin's GitHub stats" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most committed languages" />
+
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time of day" />
+
+<br/>
+
+<a href="https://github.com/franklin-mk">
+  <img src="https://streak-stats.demolab.com/?user=franklin-mk&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Franklin's GitHub streak" />
+</a>
 
 </div>
 
@@ -141,8 +151,8 @@ Easy content management systems with flexible controls.
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://iamfranklin.vercel.app/"><img src="https://img.shields.io/badge/Website-iamfranklin.vercel.app-blue?style=for-the-badge"/></a>
-  <a href="mailto:franklinmuriithi431@gmail.com"><img src="https://img.shields.io/badge/Email-franklinmuriithi431@gmail.com-red?style=for-the-badge"/></a>
+  <a href="https://iamfranklin.vercel.app/"><img src="https://img.shields.io/badge/Website-iamfranklin.vercel.app-blue?style=for-the-badge" alt="Website"/></a>
+  <a href="mailto:franklinmuriithi431@gmail.com"><img src="https://img.shields.io/badge/Email-franklinmuriithi431@gmail.com-red?style=for-the-badge" alt="Email"/></a>
 </div>
 
 <br/>
