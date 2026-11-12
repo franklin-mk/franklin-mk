@@ -4,9 +4,9 @@
 
 **3rd-year Computer Science student (Cybersecurity) · Full-Stack Developer · Nyeri, Kenya**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-iamfranklin.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://iamfranklin.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-franklinmuriithi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklinmuriithi/)
-[![Email](https://img.shields.io/badge/Email-franklinmuriithi431%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franklinmuriithi431@gmail.com)
+<a href="https://iamfranklin.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-iamfranklin.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/franklinmuriithi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-franklinmuriithi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:franklinmuriithi431@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-franklinmuriithi431%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -28,17 +28,18 @@ I'm a full-stack developer who turns simple ideas into fast, usable software, fr
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[EventSimplified](https://dev.d23xomau6ts39y.amplifyapp.com/dashboard/tasks?event=96a91e24-5aae-498b-8193-ad4612d7fdaa)** | Event planning dashboard with task tracking and AI-powered features. Built with a team and delivered by sprint. | React, Node.js, AWS Amplify |
-| **[StudentRegistrationApp](https://unit-registration.vercel.app/login)** | Offline-first student registration (web and Android) that syncs when online, with direct M-Pesa till payment. | Android, SQLite, Firebase, M-Pesa |
+| **<a href="https://wirefence-supplies.onrender.com" target="_blank" rel="noopener noreferrer">WireFence Supplies</a>** | Fencing-materials e-commerce store with Pay Hero M-Pesa STK push, lorry delivery fee estimation, live driver tracking, and an admin dashboard. | Next.js, TypeScript, Supabase, Pay Hero API, Leaflet |
+| **<a href="https://dev.d23xomau6ts39y.amplifyapp.com/dashboard/tasks?event=96a91e24-5aae-498b-8193-ad4612d7fdaa" target="_blank" rel="noopener noreferrer">EventSimplified</a>** | Event planning dashboard with task tracking and AI-powered features. Built with a team and delivered by sprint. | React, Node.js, AWS Amplify |
+| **<a href="https://unit-registration.vercel.app/login" target="_blank" rel="noopener noreferrer">StudentRegistrationApp</a>** | Offline-first student registration (web and Android) that syncs when online, with direct M-Pesa till payment. | Android, SQLite, Firebase, M-Pesa |
 | **DeKUT Online Voting System** | Secure campus elections platform: relational schemas, REST API backend, Cisco Packet Tracer network topology and a Figma prototype. *Case study* | MySQL, REST API, Cisco Packet Tracer, Figma |
 | **Money Track** | Android expense tracker with custom charts for spending and screen-time habits. *Case study* | Kotlin, Jetpack Compose, Firebase |
-| **[Cafe Hub](https://mycafe-hub-qog6.onrender.com)** | Cafe ordering and menu web app with a responsive experience. | React, Node.js |
-| **[Learning Management System](https://lms1-black.vercel.app)** | Learning platform covering course and learner flows. | React, Node.js |
-| **[Blog Platform](https://blog-app-b0un.onrender.com)** | Publishing platform with posts and a MongoDB-backed API. | React, Node.js, MongoDB |
-| **[M-PESA App Redesign](https://www.figma.com/proto/h7Wb7LD0OaPVFqUAldTeiN/M-PESA-APP-DESIGN?node-id=0-1&t=DN3HSAyOZiowtdwq-1)** | Interactive Figma prototype focused on clear payment flows. *Prototype* | Figma, UI/UX |
+| **<a href="https://mycafe-hub-qog6.onrender.com" target="_blank" rel="noopener noreferrer">Cafe Hub</a>** | Cafe ordering and menu web app with a responsive experience. | React, Node.js |
+| **<a href="https://lms1-black.vercel.app" target="_blank" rel="noopener noreferrer">Learning Management System</a>** | Learning platform covering course and learner flows. | React, Node.js |
+| **<a href="https://blog-app-b0un.onrender.com" target="_blank" rel="noopener noreferrer">Blog Platform</a>** | Publishing platform with posts and a MongoDB-backed API. | React, Node.js, MongoDB |
+| **<a href="https://www.figma.com/proto/h7Wb7LD0OaPVFqUAldTeiN/M-PESA-APP-DESIGN?node-id=0-1&t=DN3HSAyOZiowtdwq-1" target="_blank" rel="noopener noreferrer">M-PESA App Redesign</a>** | Interactive Figma prototype focused on clear payment flows. *Prototype* | Figma, UI/UX |
 | **Intelligent Healthcare Diagnostic Assistant** | AI capstone framework with a diagnostic workflow and automated medical report generation. *Case study* | AI, prompt workflows |
 
-More work, case studies and articles on **[my portfolio](https://iamfranklin.vercel.app/)**.
+More work, case studies and articles on **<a href="https://iamfranklin.vercel.app/" target="_blank" rel="noopener noreferrer">my portfolio</a>**.
 
 ---
 
@@ -50,7 +51,7 @@ More work, case studies and articles on **[my portfolio](https://iamfranklin.ver
 | **M-Pesa & E-Commerce Integration** | STK Push callbacks, dynamic catalog or menu, till integration, database setup |
 | **Custom AI & Full-Stack Systems** | React / Next.js / Node.js apps, MySQL or MongoDB architecture, AI chatbot workflows, admin dashboard |
 
-Pricing and a live estimator are on the [portfolio](https://iamfranklin.vercel.app/#pricing).
+Pricing and a live estimator are on the <a href="https://iamfranklin.vercel.app/#pricing" target="_blank" rel="noopener noreferrer">portfolio</a>.
 
 ---
 
@@ -99,15 +100,15 @@ Pricing and a live estimator are on the [portfolio](https://iamfranklin.vercel.a
 
 | Certification | Issuer |
 | :--- | :--- |
-| [Foundations of Full Stack Web Development](https://www.linkedin.com/in/franklinmuriithi/overlay/Certifications/1067782958/treasury/?profileId=ACoAAErYlasBS0Miglg3sqLCcqbsXemY4KijOXw) | DirectEd Development Foundation |
-| [Introduction to Cybersecurity](https://www.credly.com/badges/462ecab7-d995-44f5-9738-8b1083b00f65/linked_in_profile) | Cisco Networking Academy |
-| [Data Analytics Training (Power BI & Excel)](https://training.smartacademy.go.ke/certificate-verification/?certificate_id=ICTA-1784709308-7855-44620) | ICT Authority (Kenya) & Sigma Digital |
-| [Artificial Intelligence Training](https://training.smartacademy.go.ke/certificate-verification/?certificate_id=ICTA-1783345685-7426-44620) | ICT Authority (Kenya) & Pathways Technologies |
-| [AI Essentials for Professionals](https://moringa.my.salesforce-sites.com/certificateStatus?id=a0PQ200000XHXxpMAH) | Moringa School |
-| [Certified AI Talent (Outstanding Performance)](https://www.linkedin.com/in/franklinmuriithi/overlay/Certifications/1030780073/treasury/?profileId=ACoAAErYlasBS0Miglg3sqLCcqbsXemY4KijOXw) | micro1 |
-| [Design Fundamentals with AI](https://www.coursera.org/account/accomplishments/verify/16UYUQUK6O1U) | Adobe |
-| [Create and Design Digital Products](https://www.coursera.org/account/accomplishments/verify/2FP7N3QT6X9C) | Canva / Coursera |
-| [In-Depth CapCut Video Editing Masterclass](https://www.coursera.org/account/accomplishments/verify/68F3V1BIXAJD) | Skillshare |
+| <a href="https://www.linkedin.com/in/franklinmuriithi/overlay/Certifications/1067782958/treasury/?profileId=ACoAAErYlasBS0Miglg3sqLCcqbsXemY4KijOXw" target="_blank" rel="noopener noreferrer">Foundations of Full Stack Web Development</a> | DirectEd Development Foundation |
+| <a href="https://www.credly.com/badges/462ecab7-d995-44f5-9738-8b1083b00f65/linked_in_profile" target="_blank" rel="noopener noreferrer">Introduction to Cybersecurity</a> | Cisco Networking Academy |
+| <a href="https://training.smartacademy.go.ke/certificate-verification/?certificate_id=ICTA-1784709308-7855-44620" target="_blank" rel="noopener noreferrer">Data Analytics Training (Power BI & Excel)</a> | ICT Authority (Kenya) & Sigma Digital |
+| <a href="https://training.smartacademy.go.ke/certificate-verification/?certificate_id=ICTA-1783345685-7426-44620" target="_blank" rel="noopener noreferrer">Artificial Intelligence Training</a> | ICT Authority (Kenya) & Pathways Technologies |
+| <a href="https://moringa.my.salesforce-sites.com/certificateStatus?id=a0PQ200000XHXxpMAH" target="_blank" rel="noopener noreferrer">AI Essentials for Professionals</a> | Moringa School |
+| <a href="https://www.linkedin.com/in/franklinmuriithi/overlay/Certifications/1030780073/treasury/?profileId=ACoAAErYlasBS0Miglg3sqLCcqbsXemY4KijOXw" target="_blank" rel="noopener noreferrer">Certified AI Talent (Outstanding Performance)</a> | micro1 |
+| <a href="https://www.coursera.org/account/accomplishments/verify/16UYUQUK6O1U" target="_blank" rel="noopener noreferrer">Design Fundamentals with AI</a> | Adobe |
+| <a href="https://www.coursera.org/account/accomplishments/verify/2FP7N3QT6X9C" target="_blank" rel="noopener noreferrer">Create and Design Digital Products</a> | Canva / Coursera |
+| <a href="https://www.coursera.org/account/accomplishments/verify/68F3V1BIXAJD" target="_blank" rel="noopener noreferrer">In-Depth CapCut Video Editing Masterclass</a> | Skillshare |
 
 ---
 
@@ -140,6 +141,7 @@ Pricing and a live estimator are on the [portfolio](https://iamfranklin.vercel.a
 <div align="center">
 
 <!-- Generated daily by .github/workflows/profile-summary-cards.yml and stored in this repo. -->
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="99%" alt="Franklin's GitHub profile details and total contributions" />
 <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Franklin's GitHub stats" />
 <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Top languages by commit" />
 
@@ -149,6 +151,6 @@ Pricing and a live estimator are on the [portfolio](https://iamfranklin.vercel.a
 
 <div align="center">
 
-📫 **Let's talk:** [Email](mailto:franklinmuriithi431@gmail.com) · [WhatsApp](https://wa.me/254716205591) · [LinkedIn](https://www.linkedin.com/in/franklinmuriithi/) · [X](https://x.com/mfrank_lin) · [YouTube](https://www.youtube.com/@voidr3am) · [Portfolio](https://iamfranklin.vercel.app/)
+📫 **Let's talk:** <a href="mailto:franklinmuriithi431@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> · <a href="https://wa.me/254716205591" target="_blank" rel="noopener noreferrer">WhatsApp</a> · <a href="https://www.linkedin.com/in/franklinmuriithi/" target="_blank" rel="noopener noreferrer">LinkedIn</a> · <a href="https://x.com/mfrank_lin" target="_blank" rel="noopener noreferrer">X</a> · <a href="https://www.youtube.com/@voidr3am" target="_blank" rel="noopener noreferrer">YouTube</a> · <a href="https://iamfranklin.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
 </div>
