@@ -4,7 +4,7 @@
 
 **3rd-year Computer Science student (Cybersecurity) · Full-Stack Developer · Nyeri, Kenya**
 
-<a href="https://iamfranklin.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-iamfranklin.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://franklinmuriithi.co.ke/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-franklinmuriithi.co.ke-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/franklinmuriithi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-franklinmuriithi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:franklinmuriithi431@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-franklinmuriithi431%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
@@ -39,7 +39,7 @@ I'm a full-stack developer who turns simple ideas into fast, usable software, fr
 | **<a href="https://www.figma.com/proto/h7Wb7LD0OaPVFqUAldTeiN/M-PESA-APP-DESIGN?node-id=0-1&t=DN3HSAyOZiowtdwq-1" target="_blank" rel="noopener noreferrer">M-PESA App Redesign</a>** | Interactive Figma prototype focused on clear payment flows. *Prototype* | Figma, UI/UX |
 | **Intelligent Healthcare Diagnostic Assistant** | AI capstone framework with a diagnostic workflow and automated medical report generation. *Case study* | AI, prompt workflows |
 
-More work, case studies and articles on **<a href="https://iamfranklin.vercel.app/" target="_blank" rel="noopener noreferrer">my portfolio</a>**.
+More work, case studies and articles on **<a href="https://franklinmuriithi.co.ke/" target="_blank" rel="noopener noreferrer">my portfolio</a>**.
 
 ---
 
@@ -51,7 +51,7 @@ More work, case studies and articles on **<a href="https://iamfranklin.vercel.ap
 | **M-Pesa & E-Commerce Integration** | STK Push callbacks, dynamic catalog or menu, till integration, database setup |
 | **Custom AI & Full-Stack Systems** | React / Next.js / Node.js apps, MySQL or MongoDB architecture, AI chatbot workflows, admin dashboard |
 
-Pricing and a live estimator are on the <a href="https://iamfranklin.vercel.app/#pricing" target="_blank" rel="noopener noreferrer">portfolio</a>.
+Pricing and a live estimator are on the <a href="https://franklinmuriithi.co.ke/#pricing" target="_blank" rel="noopener noreferrer">portfolio</a>.
 
 ---
 
@@ -151,6 +151,6 @@ Pricing and a live estimator are on the <a href="https://iamfranklin.vercel.app/
 
 <div align="center">
 
-📫 **Let's talk:** <a href="mailto:franklinmuriithi431@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> · <a href="https://wa.me/254716205591" target="_blank" rel="noopener noreferrer">WhatsApp</a> · <a href="https://www.linkedin.com/in/franklinmuriithi/" target="_blank" rel="noopener noreferrer">LinkedIn</a> · <a href="https://x.com/mfrank_lin" target="_blank" rel="noopener noreferrer">X</a> · <a href="https://www.youtube.com/@voidr3am" target="_blank" rel="noopener noreferrer">YouTube</a> · <a href="https://iamfranklin.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+📫 **Let's talk:** <a href="mailto:franklinmuriithi431@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> · <a href="https://wa.me/254716205591" target="_blank" rel="noopener noreferrer">WhatsApp</a> · <a href="https://www.linkedin.com/in/franklinmuriithi/" target="_blank" rel="noopener noreferrer">LinkedIn</a> · <a href="https://x.com/mfrank_lin" target="_blank" rel="noopener noreferrer">X</a> · <a href="https://www.youtube.com/@voidr3am" target="_blank" rel="noopener noreferrer">YouTube</a> · <a href="https://franklinmuriithi.co.ke/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
 </div>
